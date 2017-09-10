@@ -25,4 +25,4 @@
 ## 附录篇
 > 一个网站三分地，产不产粮看自己。只要用心去管理，神马都不是问题。
 <br>
-> 友情链接: <a href="http://www.siguar.com">丝瓜瓤</a>
+友情链接: <a href="http://www.siguar.com">丝瓜瓤</a>
